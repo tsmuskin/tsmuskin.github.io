@@ -18,16 +18,16 @@
 # You can create any custom variable you would like, and they will be accessible
 # in the templates via {{ site.myvariable }}.
 
-title: About Me
-email: tsmuskin@bu.edu
-description: Hi, I'm Temima Muskin. I am a first year Masters student in AI and
-  I had actually attended BU as an undergraduate in Mathamatics and Computer Science.
-  Most recenly I was working as a softwear engineer. My hobbies include music, baking,
-  and soccer.
+title: "About Me"
+email: "tsmuskin@bu.edu"
+description: "Hi, I'm Temima Muskin. I am a first year Masters student in AI and
+  I had actually attended BU as an undergraduate in Mathematics and Computer Science.
+  Most recently I was working as a software engineer. My hobbies include music, baking
+  and soccer. "
   >- # this means to ignore newlines until "baseurl:"
-  Write an awesome description for your new site here. You can edit this
-  line in _config.yml. It will appear in your document head meta (for
-  Google search results) and in your feed.xml site description.
+#  Write an awesome description for your new site here. You can edit this
+#  line in _config.yml. It will appear in your document head meta (for
+#  Google search results) and in your feed.xml site description.
 baseurl: "" # the subpath of your site, e.g. /blog
 url: "" # the base hostname & protocol for your site, e.g. http://example.com
 twitter_username: jekyllrb
