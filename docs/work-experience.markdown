@@ -5,19 +5,16 @@ permalink: /work-experience/
 ---
 
 * **Software Engineer**
-
   * KESSEL RUN, Boston, MA (2022-present)
-  * Collaborate with Product Manager, Tech
-  Writer and Designers
-  * Maintain updated Gitlab backlog include accepting
-  and creating new stories
-  * Pair program with developers and maintain
-  pipeline  
-  
+    * Collaborate with Product Manager, Tech
+    Writer and Designers
+    * Maintain updated Gitlab backlog include accepting
+    and creating new stories
+    * Pair program with developers and maintain
+    pipeline
 
 
 * **App Developer**
-
   * BU SPARK!, Boston, MA (2021-22)(through Boston
   University)
   * Developed an app for students to learn French
@@ -29,8 +26,7 @@ permalink: /work-experience/
   * Implemented audio and recording functionality  
   
 
-* **Computer Science Intern**  
-
+* **Computer Science Intern**
   * KESSEL RUN, Boston, MA (Summer 2021)
       * Supported the Service Design team by working on
       customer facing documentation
