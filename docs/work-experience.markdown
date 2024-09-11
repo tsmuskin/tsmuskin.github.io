@@ -5,16 +5,19 @@ permalink: /work-experience/
 ---
 
 * **Software Engineer**
+
   * KESSEL RUN, Boston, MA (2022-present)
   * Collaborate with Product Manager, Tech
   Writer and Designers
   * Maintain updated Gitlab backlog include accepting
   and creating new stories
   * Pair program with developers and maintain
-  pipeline
+  pipeline  
+  
 
 
 * **App Developer**
+
   * BU SPARK!, Boston, MA (2021-22)(through Boston
   University)
   * Developed an app for students to learn French
@@ -23,7 +26,7 @@ permalink: /work-experience/
   audio clips and self-recording
   * Worked on frontend development in Flutter
   * Utilized Figma for development designs
-  * Implemented audio and recording functionality
+  * Implemented audio and recording functionality  
   
 
 * **Computer Science Intern**  
@@ -34,4 +37,4 @@ permalink: /work-experience/
       * Conducted effective interviews to determine
       customers’ user needs
       * Built out website using React and Markdown for
-      documentation per customers’ needs
+      documentation per customers’ needs  

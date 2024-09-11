@@ -1,18 +1,10 @@
 ---
 layout: page
-title: About
-permalink: /about/
+title: About Me
+permalink: /
 ---
 
-This is the base Jekyll theme. You can find out more info about customizing your Jekyll theme, as well as basic Jekyll usage documentation at [jekyllrb.com](https://jekyllrb.com/)
-
-You can find the source code for Minima at GitHub:
-[jekyll][jekyll-organization] /
-[minima](https://github.com/jekyll/minima)
-
-You can find the source code for Jekyll at GitHub:
-[jekyll][jekyll-organization] /
-[jekyll](https://github.com/jekyll/jekyll)
-
-
-[jekyll-organization]: https://github.com/jekyll
+Hi, I'm Temima Muskin. I am a first year Masters student in AI and
+I had actually attended BU as an undergraduate in Mathamatics and Computer Science.
+Most recenly I was working as a softwear engineer. My hobbies include music, baking,
+and soccer.
