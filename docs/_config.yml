@@ -31,13 +31,6 @@ theme: minima
 plugins:
   - jekyll-feed
 
-header_pages:
-  docs/index.markdown
-  docs/assignments.markdown
-  docs/projects.markdown
-  docs/work-experience.markdown
-  docs/contact.markdown
-
 # Exclude from processing.
 # The following items will not be processed, by default.
 # Any item listed under the `exclude:` key here will be automatically added to
