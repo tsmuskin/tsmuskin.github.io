@@ -1,7 +1,7 @@
 ---
 layout: page
 title: About Me
-order: 1
+permalink: /about/
 ---
 
 Hi, I'm Temima Muskin. I am a first year Masters student in AI and
