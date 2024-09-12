@@ -7,5 +7,5 @@ order: 2
 
 |Assignment 0:|
 |-------------|
-|Dummy assignment to write a python script that adds two numbers together and prints their sum to the command line.|
-|Github Link|
+|Dummy python script that adds two numbers together and prints their sum to the command line.|
+|[Github Link](https://github.com/tsmuskin/tsmuskin-assignment-0)|
