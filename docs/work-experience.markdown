@@ -2,6 +2,7 @@
 layout: page
 title: Work-Experience
 permalink: /work-experience/
+order: 4
 ---
 
 * **Software Engineer**

@@ -6,6 +6,7 @@ layout: page
 title: About Me
 permalink: /
 redirect_to: /about/
+order: 1
 ---
 
 Hi, I'm Temima Muskin. I am a first year Masters student in AI and

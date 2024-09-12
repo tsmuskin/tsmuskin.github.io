@@ -30,7 +30,6 @@ github_username:  tsmuskin
 theme: minima
 plugins:
   - jekyll-feed
-paginate_path: /assignments/page:num
 
 # Exclude from processing.
 # The following items will not be processed, by default.
