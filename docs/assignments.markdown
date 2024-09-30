@@ -14,3 +14,10 @@ order: 2
 |-------------|
 |In this assignment, we were working with a dataset we took as a class of the elevator arrival times on the ground floor in CDS. Using this dataset, I took an educated guess on where to stand, then computed for the total time we observed the elevators, number of arrivals, frequency, and probability for each elevator. Using this information I then calculated for the weighted centroid which gave me the best location to wait in order to minimize the expected walking distance to the next arriving elevator. Then using that location I calculated the average distance traveled to the next elevator arrival over the training dataset and the testing dataset.|
 |[Github Link](https://github.com/tsmuskin/tsmuskin-assignment-1)|
+
+|Assignment 2:|
+|-------------|
+| <video width="600" controls>
+  <source src="Kmeans Demo.mov" type="video/mov"></video>|
+|[Github Link](https://github.com/tsmuskin/tsmuskin-assignment-2)|
+
