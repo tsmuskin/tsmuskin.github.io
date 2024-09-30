@@ -17,8 +17,8 @@ order: 2
 
 |Assignment 2:|
 |-------------|
-|![Alt text](/tsmuskin.github.io/Kmeans Demo.mov)|
+|![Alt text](https://youtu.be/4m3u8rf7LuI)|
 | <video width="600" controls>
-  <source src="/../Kmeans Demo.mov" type="video/mov"></video>|
+  <source src="https://youtu.be/4m3u8rf7LuI" type="video/mov"></video>|
 |[Github Link](https://github.com/tsmuskin/tsmuskin-assignment-2)|
 
