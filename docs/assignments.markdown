@@ -20,3 +20,7 @@ order: 2
 |[Video Link](https://youtu.be/4m3u8rf7LuI)|
 |[Github Link](https://github.com/tsmuskin/tsmuskin-assignment-2)|
 
+|Assignment 3:|
+|-------------|
+|In this assignment, I implemented Singular Value Decomposition (SVD) on the MNIST database, in order to learn about the balance between accuracy and computational complexity. Though writing my own code to implement SVD and dimensionality reduction in Python, I was able to visualize the results and make informed decision about the number of dimensions, and how they relate to the performance of a classifier.
+|[Github Link](https://github.com/tsmuskin/tsmuskin-assignment-3)|
