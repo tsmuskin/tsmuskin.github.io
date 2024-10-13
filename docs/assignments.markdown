@@ -27,5 +27,5 @@ order: 2
 
 |Assignment 4:|
 |-------------|
-|<iframe width="560" height="315" src="https://www.youtube.com/watch?v=7HnmZglcCro" frameborder="0" allowfullscreen></iframe>|
+|[Video Link](https://www.youtube.com/watch?v=7HnmZglcCro)|
 |[Github Link](https://github.com/tsmuskin/tsmuskin-assignment-4)|
