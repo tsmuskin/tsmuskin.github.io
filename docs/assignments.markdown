@@ -27,5 +27,5 @@ order: 2
 
 |Assignment 4:|
 |-------------|
-|[Watch Video](/Videos/LSA%20Demo.mov)|
+|<iframe width="560" height="315" src="https://www.youtube.com/watch?v=7HnmZglcCro" frameborder="0" allowfullscreen></iframe>|
 |[Github Link](https://github.com/tsmuskin/tsmuskin-assignment-4)|
