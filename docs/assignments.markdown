@@ -30,7 +30,7 @@ order: 2
 |[Video Link](https://www.youtube.com/watch?v=7HnmZglcCro)|
 |[Github Link](https://github.com/tsmuskin/tsmuskin-assignment-4)|
 
-|Assignment 4:|
+|Assignment 5:|
 |-------------|
 |In this assignment, I implemented  implement a K-Nearest Neighbors (KNN) model to predict customer churn for a bank. It identifies customers who are likely to leave the bank based on historical data.|
 |[Github Link](https://github.com/tsmuskin/tsmuskin-assignment-5)|
