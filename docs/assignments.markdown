@@ -34,3 +34,8 @@ order: 2
 |-------------|
 |In this assignment, I implemented  implement a K-Nearest Neighbors (KNN) model to predict customer churn for a bank. It identifies customers who are likely to leave the bank based on historical data.|
 |[Github Link](https://github.com/tsmuskin/tsmuskin-assignment-5)|
+
+|Midterm:|
+|-------------|
+|In this Midterm I competed in a [kaggle compition](https://www.kaggle.com/competitions/cs-506-midterm-fall-2024/overview) that predicts the star rating associated with user reviews from Amazon Movie Reviews using the available features.|
+|[Github Link](https://github.com/tsmuskin/tsmuskin-Midterm/tree/master)|
