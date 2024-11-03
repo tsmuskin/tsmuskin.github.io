@@ -42,6 +42,6 @@ order: 2
 
 |Assignment 6:|
 |-------------|
-|[Video Link](https://youtu.be/y7ZBnFisDc8)|
 |In this assignment, I built a interactive webpage that lets users adjust the sample size, mean of noise, variance of noise, and the number of simulations, in order to observe how these changes affect the slope and intercept of a linear regression model.|
+|[Video Link](https://youtu.be/y7ZBnFisDc8)|
 |[Github Link](https://github.com/tsmuskin/tsmuskin-assignment-6)|
