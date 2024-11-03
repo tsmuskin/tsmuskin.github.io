@@ -39,3 +39,9 @@ order: 2
 |-------------|
 |In this Midterm I competed in a [kaggle compition](https://www.kaggle.com/competitions/cs-506-midterm-fall-2024/overview) that predicts the star rating associated with user reviews from Amazon Movie Reviews using the available features.|
 |[Github Link](https://github.com/tsmuskin/tsmuskin-Midterm/tree/master)|
+
+|Assignment 6:|
+|-------------|
+|[Video Link](https://youtu.be/y7ZBnFisDc8)|
+|In this assignment, I built a interactive webpage that lets users adjust the sample size, mean of noise, variance of noise, and the number of simulations, in order to observe how these changes affect the slope and intercept of a linear regression model.|
+|[Github Link](https://github.com/tsmuskin/tsmuskin-assignment-6)|
