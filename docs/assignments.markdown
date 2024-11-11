@@ -45,3 +45,9 @@ order: 2
 |In this assignment, I built a interactive webpage that lets users adjust the sample size, mean of noise, variance of noise, and the number of simulations, in order to observe how these changes affect the slope and intercept of a linear regression model.|
 |[Video Link](https://youtu.be/y7ZBnFisDc8)|
 |[Github Link](https://github.com/tsmuskin/tsmuskin-assignment-6)|
+
+|Assignment 7:|
+|-------------|
+|In this assignment, I extended on my previous work from Assignment 6 to include hypothesis testing and confidence intervals through simulations. I enhanced the interactive webpage to allow users to perform hypothesis tests on the slope or intercept of the regression line and generate confidence intervals based on simulations.|
+|[Video Link](https://www.youtube.com/watch?v=GPWN7mx5hAo)|
+|[Github Link](https://github.com/tsmuskin/tsmuskin-assignment-7)|
