@@ -50,4 +50,4 @@ order: 2
 |-------------|
 |In this assignment, I extended on my previous work from Assignment 6 to include hypothesis testing and confidence intervals through simulations. I enhanced the interactive webpage to allow users to perform hypothesis tests on the slope or intercept of the regression line and generate confidence intervals based on simulations.|
 |[Video Link](https://www.youtube.com/watch?v=GPWN7mx5hAo)|
-|[Github Link](https://github.com/tsmuskin/tsmuskin-assignment-7)|
+|[Github Link](https://youtu.be/is5Ijs0BnE8)|
