@@ -57,3 +57,9 @@ order: 2
 |In this assignment, I explored the effect of shifting clusters in a dataset on the parameters of a logistic regression model.|
 |[Video Link](https://www.youtube.com/watch?v=cjKeqDYf6Ww)|
 |[Github Link](https://github.com/tsmuskin/tsmuskin-assignment-8)|
+
+|Assignment 9:|
+|-------------|
+|In this assignment, I implemented and analyzed a simple neural network by visualizing its learned features, decision boundary, and gradients.|
+|[Video Link](https://www.youtube.com/watch?v=KKuYPfb2CKA)|
+|[Github Link](https://github.com/tsmuskin/tsmuskin-assignment-9)|
